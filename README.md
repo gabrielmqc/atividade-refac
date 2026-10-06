@@ -84,7 +84,7 @@ http://localhost:8080/h2-console
 Configurações padrão:
 
 ```text
-JDBC URL: jdbc:h2:mem:testdb
+JDBC URL: jdbc:h2:mem:refacdb
 User Name: sa
 Password:
 ```
