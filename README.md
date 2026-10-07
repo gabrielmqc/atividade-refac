@@ -6,6 +6,7 @@ Esta API foi desenvolvida propositalmente com diversos problemas de arquitetura 
 
 O objetivo da atividade é analisar o código, identificar os problemas existentes e realizar as refatorações necessárias para tornar a aplicação mais organizada, flexível e aderente às boas práticas de desenvolvimento.
 
+Obs. A API foi construída usando Java 21, caso não consigam compilar o código verifiquem o JDK instalado na máquina.
 ## O que deve ser feito
 
 * Identificar violações dos princípios SOLID presentes no projeto.
